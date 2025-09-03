@@ -14,7 +14,7 @@ function getRotation(date) {
 
 /* Create images */
 const imgSources = {
-  background: "assets/background.png",
+  background: "assets/background.jpg",
   clockFace: "assets/clock-face.png",
   body: "assets/dafoe-body.png",
   longLeg: "assets/dafoe-long-leg.png",
